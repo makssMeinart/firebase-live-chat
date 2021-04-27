@@ -1,0 +1,17 @@
+/* Our Message */
+.our-message {
+  flex-direction: row-reverse;
+  margin-left: auto;
+  text-align: right;
+}
+.our-message .user-text {
+  background-color: rgb(188, 221, 120) ;
+}
+.our-message .user-icon {
+  margin-left: 1rem;
+}
+
+/* Their message */
+.their-message .user-icon {
+  margin-right: 1rem;
+}
